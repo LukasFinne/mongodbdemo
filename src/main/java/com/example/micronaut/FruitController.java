@@ -1,6 +1,5 @@
 package com.example.micronaut;
 
-
 import io.micronaut.core.annotation.NonNull;
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Get;

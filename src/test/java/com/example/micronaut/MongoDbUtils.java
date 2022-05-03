@@ -1,6 +1,5 @@
 package com.example.micronaut;
 
-
 import org.testcontainers.containers.MongoDBContainer;
 import org.testcontainers.utility.DockerImageName;
 
